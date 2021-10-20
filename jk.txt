@@ -1,1 +1,2 @@
 "Hi friends "
+"i am editing the file for new repo"
